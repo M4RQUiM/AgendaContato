@@ -3,7 +3,7 @@ ini_set('display_errors', true);
 error_reporting(E_ALL);
 
 //Conexão on-line
-$hostname = "fdb23.awardspace.net";
+$hostname = "";
 $database = "3153485_princeso";
 $username = "3153485_princeso";
 $password = "princeso123";
